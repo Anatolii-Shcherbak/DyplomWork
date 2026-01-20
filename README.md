@@ -32,4 +32,8 @@ This folder contains the complete project for my diploma work, including all res
      - Mobile devices are **not supported**; game may be unplayable.
    - Playable in browser: [Click Here to Play](https://anatolii-shcherbak.github.io/DyplomProjectWork_AnatoliiShcherbak/)
    - Link for Webgame repository: [WebGame repository](https://github.com/Anatolii-Shcherbak/DyplomProjectWork_AnatoliiShcherbak/)
-   
+     
+## © Copyright
+All materials in this repository, including the EXE version, assets, images, and documentation,  
+are **created by and belong to Anatolii Shcherbak, ID 63570**.  
+All rights reserved.
